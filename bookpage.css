@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+
+.abdkdescription {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.abdkcard1 {
+    text-align: center;
+}
+
+.wingsoflifebookdetailspage {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100%;
+}
+
+.chetanghagattitle {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.chetanimg2 {
+    height: 130px;
+    width: 80px;
+}
+
+.rcbookstitle {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 16px;
+}
+
+.abulimg1 {
+    height: 180px;
+    width: 130px;
+}
+
+.abdulparagraph2 {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.abdulparagraph {
+    color: #06070d;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.wingsoffiretitle {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.wingsofcard {
+    background-color: #e6f6ff;
+}
+
+.popularbookhomepage-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.popularbookhomepage-bg-color {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100%;
+}
